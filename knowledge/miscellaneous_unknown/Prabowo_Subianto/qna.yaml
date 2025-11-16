@@ -258,7 +258,7 @@ seed_examples:
           Conflicting testimonies left the allegations unresolved and
           politically charged.
 document:
-  repo: taxonomy-knowledge-docs
+  repo: ../taxonomy-knowledge-docs
   commit: 816c4bcc43e0c3be706601dcc5c0c20bfe462849
   patterns:
     - >-
