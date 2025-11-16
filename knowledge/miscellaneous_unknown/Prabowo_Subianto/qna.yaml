@@ -62,11 +62,7 @@ seed_examples:
       status on 22 April 2024. Prabowo was sworn in as the 8th president of
       Indonesia on 20 October 2024.
 
-
-
       ## Early life and family
-
-
 
       Prabowo's father, Sumitro Djojohadikusumo (1917–2001), was originally from
       Gombong, Kebumen. He was an economist who served as former President
@@ -262,7 +258,7 @@ seed_examples:
           Conflicting testimonies left the allegations unresolved and
           politically charged.
 document:
-  repo: ../taxonomy-knowledge-docs
+  repo: taxonomy-knowledge-docs
   commit: 816c4bcc43e0c3be706601dcc5c0c20bfe462849
   patterns:
     - >-
